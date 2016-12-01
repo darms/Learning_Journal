@@ -1,0 +1,2 @@
+<h1>Code201 LJ Day One</h1>
+<p>It was a nice and gentle start to class. Since completing the pre work and reading, I feel I’ve come to better understand if/else statements and the general structure of web pages and sites. HTML provides the structure or skeletal framework, CSS provides styling, and javascript does the heavy lifting for functionality between the languages. I’m also feeling much more confident in my overall grasp of basic javascript concepts: data types, truthiness, etc. </p>
